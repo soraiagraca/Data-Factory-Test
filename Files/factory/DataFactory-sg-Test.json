@@ -1,0 +1,9 @@
+{
+	"name": "DataFactory-sg-Test",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9687431c-4fe9-4005-bb98-897cfb59aa9d",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
